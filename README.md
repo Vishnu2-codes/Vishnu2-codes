@@ -89,8 +89,4 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Vishnu2-codes/Vishnu2-codes/output/snake.svg" alt="Snake animation" />
-
-###
